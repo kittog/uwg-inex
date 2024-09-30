@@ -9,8 +9,9 @@
     - `SGP_Singapore.486980_IWEC.epw` : fichier météo (pour le tutoriel)
 - `scripts`
     - `uwg_tutorial.ipynb` : notebook tutoriel (en anglais, me demandez pas pourquoi) pour l'utilisation du module `uwg` et ouvrir des fichiers `EPW` en Python ;
-    - `run_uwg.py` : script pour lancer simulation UWG à partir d'un fichier EPW.
-- `UWG_thesis.pdf` : An Urban Weather Generator Coupling a Building Simulation Program with an Urban Canopy Model, Bruno Bueno Unzeta, 2007.
+    - `run_uwg.py` : script pour lancer simulation UWG à partir d'un fichier EPW ;
+    - `epw_metadata.py`: script pour obtenir les métadonnées des fichiers EPW.
+- `UWG_thesis.pdf` : *An Urban Weather Generator Coupling a Building Simulation Program with an Urban Canopy Model*, Bruno Bueno Unzeta, 2007.
 
 ### Installation de Python
 ---
